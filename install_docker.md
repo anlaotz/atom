@@ -16,7 +16,7 @@ cd atom
 
 ---
 
-### 🔓 2. Jadikan Skrip Bisa Dieksekusi
+### 🔓 2. Ijinkan Skrip
 
 ```bash
 chmod +x install-atom.sh
