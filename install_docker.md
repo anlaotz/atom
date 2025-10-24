@@ -1,4 +1,4 @@
-## 📘 Panduan Lengkap Instalasi AtoM dari Repo Pribadi
+## 📘 Panduan Lengkap Instalasi AtoM dengan Docker
 
 ### 🖥️ Persiapan Awal
 
@@ -7,7 +7,7 @@
 
 ---
 
-### 📥 1. Clone Repositori AtoM Milikmu
+### 📥 1. Clone Repositori AtoM ini
 
 ```bash
 git clone https://github.com/anlaotz/atom.git
